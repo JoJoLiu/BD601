@@ -9,3 +9,4 @@ BD601 APP 开发文档
 - 记录开发中的各种问题
 
 
+![](http://odivvkz3w.bkt.clouddn.com/App.png)
